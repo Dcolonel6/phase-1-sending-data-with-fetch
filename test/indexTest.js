@@ -60,7 +60,7 @@ describe( "submitData()", () => {
           id: rando,
           ...requestBody
         }
-      } );
+      });
 
     let name = "Sam"
     let email = "sam@sam.com"
